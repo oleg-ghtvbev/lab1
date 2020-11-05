@@ -1,18 +1,9 @@
-// let name = 'John' 
-// console.log('Hello Word' + name)
-// let name2 = "Ivan"
-// const name3 = 'jane'
-// let lang = 'hello '
-// console.log(lang + name)
-// console.log(lang + name2)
-// console.log(lang + name3)
-
-const array = ['John', 'Ivan', 4, 20, 'jane']
-
-const hello = ['Hello', 'привет']
-for (let helloIndex = 0; helloIndex < hello.length; helloIndex++){
-    for ( let index = 0; index < array.length; index++) {
-        console.log(array[helloIndex] +' '+ array[index]);
-    }
-}
-    
+let names = 'Petr';
+var name2 = 'Artur';
+const name3 = 'dad';
+let  hello = `hello ${names}`;
+let  hello2 = `hello ${name2}`;
+let  hello3 = `hello ${name3}`;
+console.log(hello);
+console.log(hello2);
+console.log(hello3);
