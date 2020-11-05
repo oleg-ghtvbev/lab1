@@ -17,5 +17,8 @@ for (let helloIndex = 0; helloIndex < hello.length; helloIndex++){
 }
 
 }
+<<<<<<< HEAD
  Script
  
+=======
+>>>>>>> e592ba5626c23a1a06ecc3ddb05e80fa7f7fb5ca
