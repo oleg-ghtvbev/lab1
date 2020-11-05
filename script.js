@@ -12,13 +12,7 @@ const array = ['John', 'Ivan', 4, 20, 'jane']
 const hello = ['Hello', 'привет']
 for (let helloIndex = 0; helloIndex < hello.length; helloIndex++){
     for ( let index = 0; index < array.length; index++) {
-        console.log(array[helloIndex] +' '+ array[index])
-
+        console.log(array[helloIndex] +' '+ array[index]);
+    }
 }
-
-}
-<<<<<<< HEAD
- Script
- 
-=======
->>>>>>> e592ba5626c23a1a06ecc3ddb05e80fa7f7fb5ca
+    
